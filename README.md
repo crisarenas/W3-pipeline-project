@@ -1,1 +1,1 @@
-# Pipeline project
+# Suicide rates
