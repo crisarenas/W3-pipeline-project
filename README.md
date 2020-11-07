@@ -1,1 +1,1 @@
-# W3-pipeline-project
+# Pipeline project
