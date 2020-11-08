@@ -35,12 +35,23 @@ After the clean up, our datasett looks like this:
   - G.I. Generation  
 
 
+## First analysis:
 
+#### Suicides by sex
+It is impressive to see that just between 1985 and 2016, there are more than 6.5 millions suicides in this countries, mostly women suicides. If we add countries like Russia or China to the study, this amount increases to over 20 million suicides, we will try to include these data later to the dataset.
+![](images/sex_suicide_first.png)
 
+#### Ages
+The rate is bigger between 35 and 54 years old.
+![](images/age_suicide.png)
 
-
-
-
+#### Countries
+![](images/sex_suicide_first.png)
+![](images/top5.jpg)
+#### Years
+![](images/sex_suicide_first.png)
+#### GDP for year
+![](images/sex_suicide_first.png)
 
 
 
