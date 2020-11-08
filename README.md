@@ -7,7 +7,7 @@ This project aims to analyse the suicide rates in different countries around the
 The original dataset from this project has been retrieved from [kaggle](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016).
 
 
-We will try to relate this data with external conditions such us wars, drugs, wheather, religion or the arrival of social media, trying to find out what increases or decreases the suicide rates ove thw world.
+We will try to relate this data with external conditions such us wars, drugs, wheather, religion or the arrival of social media, trying to find out what increases or decreases the suicide rates over the world.
 
 After the clean up, our datasett looks like this:
 ![GitHub Logo](/images/cleaned.jpg)
