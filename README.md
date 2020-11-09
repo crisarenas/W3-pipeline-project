@@ -39,21 +39,31 @@ After the clean up, our datasett looks like this:
 
 #### Suicides by sex
 It is impressive to see that just between 1985 and 2016, there are more than 6.5 millions suicides in this countries, mostly women suicides. If we add countries like Russia or China to the study, this amount increases to over 20 million suicides, we will try to include these data later to the dataset.
+
 ![](images/sex_suicide_first.png)
+
+
 
 #### Ages
-The rate is bigger between 35 and 54 years old.
-![](images/age_suicide.png)
+The rate is bigger between 35 and 54 years old. However, this range is better than the rest.
+
+![](images/age.png)
+
+
+
 
 #### Countries
-![](images/sex_suicide_first.png)
+The top five countries and years with a bigger suicide rate. Most of them are relatively recent. We should explore more data to see if  suicide rates have increased in the last years.
+
 ![](images/top5.jpg)
+
+
+
+
 #### Years
-![](images/sex_suicide_first.png)
-#### GDP for year
-![](images/sex_suicide_first.png)
+The suicides increase after 1989. The reason for this could be either that they start recollecting more data or that in 1989 the cold war finishes and the Berlin wall falls, a lot of people got into a depression.
 
-
+![](images/year.png)
 
 
 
