@@ -35,6 +35,14 @@ After the clean up, our datasett looks like this:
   - G.I. Generation  
 
 
+
+
+
+
+
+
+
+
 ## First analysis:
 
 #### Suicides by sex
@@ -42,14 +50,10 @@ It is impressive to see that just between 1985 and 2016, there are more than 6.5
 
 ![](images/sex_suicide_first.png)
 
-
-
 #### Ages
 The rate is bigger between 35 and 54 years old. However, this range is better than the rest.
 
 ![](images/age.png)
-
-
 
 
 #### Countries
@@ -58,12 +62,28 @@ The top five countries and years with a bigger suicide rate. Most of them are re
 ![](images/top5.jpg)
 
 
-
-
 #### Years
 The suicides increase after 1989. The reason for this could be either that they start recollecting more data or that in 1989 the cold war finishes and the Berlin wall falls, a lot of people got into a depression.
 
 ![](images/year.png)
+
+
+
+
+
+
+
+
+## Adding external data via API and web scraping:
+
+
+
+
+
+
+
+
+
 
 
 
